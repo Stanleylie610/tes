@@ -1,0 +1,523 @@
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\CoverletSourceRootsMapping
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\testhost.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.deps.json
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.runtimeconfig.json
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.runtimeconfig.dev.json
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\appsettings.Development.json
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\appsettings.json
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.exe
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\testhost.exe
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.Tests.deps.json
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.Tests.runtimeconfig.json
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.Tests.runtimeconfig.dev.json
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.Tests.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\ref\SchoolLogin.Tests.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.Tests.pdb
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\AutoMapper.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Humanizer.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.abstractions.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.assert.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.core.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.execution.dotnet.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.pdb
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.csproj.AssemblyReference.cache
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.AssemblyInfoInputs.cache
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.AssemblyInfo.cs
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.csproj.CoreCompileInputs.cache
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.csproj.CopyComplete
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\obj\Debug\net5.0\ref\SchoolLogin.Tests.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.pdb
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.genruntimeconfig.cache
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Castle.Core.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Moq.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+d:\WebAPI\webapi\SchoolLoginNunit\test\SchoolLogin.Tests\bin\Debug\net5.0\FluentAssertions.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\CoverletSourceRootsMapping
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\appsettings.Development.json
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\appsettings.json
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\testhost.exe
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\testhost.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.deps.json
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.runtimeconfig.json
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.runtimeconfig.dev.json
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.exe
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.Tests.deps.json
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.Tests.runtimeconfig.json
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.Tests.runtimeconfig.dev.json
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.Tests.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ref\SchoolLogin.Tests.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.Tests.pdb
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\AutoMapper.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Castle.Core.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\FluentAssertions.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Humanizer.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.OpenApi.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Moq.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Newtonsoft.Json.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\NuGet.Frameworks.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\System.Runtime.Caching.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.abstractions.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.assert.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.core.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.execution.dotnet.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.pdb
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.csproj.AssemblyReference.cache
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.GeneratedMSBuildEditorConfig.editorconfig
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.AssemblyInfoInputs.cache
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.AssemblyInfo.cs
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.csproj.CoreCompileInputs.cache
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.csproj.CopyComplete
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\ref\SchoolLogin.Tests.dll
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.pdb
+d:\WebAPI\webapi\SchoolLoginNunit - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.genruntimeconfig.cache
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\CoverletSourceRootsMapping
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\testhost.exe
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\testhost.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.deps.json
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.runtimeconfig.json
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.runtimeconfig.dev.json
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\appsettings.Development.json
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\appsettings.json
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\global.json
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.exe
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.Tests.deps.json
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.Tests.runtimeconfig.json
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.Tests.runtimeconfig.dev.json
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.Tests.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ref\SchoolLogin.Tests.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.Tests.pdb
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\AutoMapper.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Castle.Core.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\FluentAssertions.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Humanizer.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Moq.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.abstractions.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.assert.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.core.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\xunit.execution.dotnet.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\net5.0\SchoolLogin.pdb
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.csproj.AssemblyReference.cache
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.AssemblyInfoInputs.cache
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.AssemblyInfo.cs
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.csproj.CoreCompileInputs.cache
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.csproj.CopyComplete
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\ref\SchoolLogin.Tests.dll
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.pdb
+D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\net5.0\SchoolLogin.Tests.genruntimeconfig.cache
