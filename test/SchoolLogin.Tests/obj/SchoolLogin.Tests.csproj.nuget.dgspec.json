@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\SchoolLogin.Tests.csproj": {}
+    "D:\\WebAPI\\API TEST\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\SchoolLogin.Tests.csproj": {}
   },
   "projects": {
-    "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj": {
+    "D:\\WebAPI\\API TEST\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj",
+        "projectUniqueName": "D:\\WebAPI\\API TEST\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj",
         "projectName": "SchoolLogin",
-        "projectPath": "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj",
+        "projectPath": "D:\\WebAPI\\API TEST\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj",
         "packagesPath": "C:\\Users\\Stanley\\.nuget\\packages\\",
-        "outputPath": "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\obj\\",
+        "outputPath": "D:\\WebAPI\\API TEST\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stanley\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,14 +95,14 @@
         }
       }
     },
-    "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\SchoolLogin.Tests.csproj": {
+    "D:\\WebAPI\\API TEST\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\SchoolLogin.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\SchoolLogin.Tests.csproj",
+        "projectUniqueName": "D:\\WebAPI\\API TEST\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\SchoolLogin.Tests.csproj",
         "projectName": "SchoolLogin.Tests",
-        "projectPath": "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\SchoolLogin.Tests.csproj",
+        "projectPath": "D:\\WebAPI\\API TEST\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\SchoolLogin.Tests.csproj",
         "packagesPath": "C:\\Users\\Stanley\\.nuget\\packages\\",
-        "outputPath": "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\obj\\",
+        "outputPath": "D:\\WebAPI\\API TEST\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stanley\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -119,8 +119,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj": {
-                "projectPath": "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj"
+              "D:\\WebAPI\\API TEST\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj": {
+                "projectPath": "D:\\WebAPI\\API TEST\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj"
               }
             }
           }

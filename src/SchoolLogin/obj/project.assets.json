@@ -6135,14 +6135,14 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "AutoMapper.Extensions.Microsoft.DependencyInjection >= *",
-      "Microsoft.AspNetCore.JsonPatch >= *",
+      "AutoMapper.Extensions.Microsoft.DependencyInjection",
+      "Microsoft.AspNetCore.JsonPatch",
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 3.1.12",
-      "Microsoft.EntityFrameworkCore >= *",
-      "Microsoft.EntityFrameworkCore.Design >= *",
-      "Microsoft.EntityFrameworkCore.SqlServer >= *",
-      "Microsoft.EntityFrameworkCore.Sqlite >= *",
-      "Swashbuckle.AspNetCore >= *"
+      "Microsoft.EntityFrameworkCore",
+      "Microsoft.EntityFrameworkCore.Design",
+      "Microsoft.EntityFrameworkCore.SqlServer",
+      "Microsoft.EntityFrameworkCore.Sqlite",
+      "Swashbuckle.AspNetCore"
     ]
   },
   "packageFolders": {
@@ -6151,11 +6151,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj",
+      "projectUniqueName": "D:\\WebAPI\\API TEST\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj",
       "projectName": "SchoolLogin",
-      "projectPath": "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj",
+      "projectPath": "D:\\WebAPI\\API TEST\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj",
       "packagesPath": "C:\\Users\\Stanley\\.nuget\\packages\\",
-      "outputPath": "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\obj\\",
+      "outputPath": "D:\\WebAPI\\API TEST\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stanley\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6170,7 +6170,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -6182,15 +6181,14 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "(, )"
           },
           "Microsoft.AspNetCore.JsonPatch": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "(, )"
           },
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
             "target": "Package",
@@ -6198,23 +6196,23 @@
           },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "(, )"
           },
           "Microsoft.EntityFrameworkCore.Design": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "(, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "(, )"
           },
           "Microsoft.EntityFrameworkCore.Sqlite": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "(, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "(, )"
           }
         },
         "imports": [
@@ -6235,7 +6233,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.112\\RuntimeIdentifierGraph.json"
       }
     }
   }
