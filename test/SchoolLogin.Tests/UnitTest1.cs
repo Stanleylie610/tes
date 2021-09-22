@@ -120,7 +120,7 @@ namespace SchoolLogin.Tests
 
     public class ControllerTest
     {
-        // private readonly Mock<ISchoolloginRepo> repositoryStub = new();
+        // private readonly Mock<ISchoolloginRepo> repositoryStub = new(); for .net 5.0
         private readonly Mock<ISchoolloginRepo> repositoryStub = new Mock<ISchoolloginRepo>();
         private readonly Mock<IMapper> mapperstub = new Mock<IMapper>();
         private readonly Random rand = new Random();
@@ -200,8 +200,8 @@ namespace SchoolLogin.Tests
             var itemtocreate = new SchoolLoginCreateDto()
             {
                 StudentName = Guid.NewGuid().ToString(),
-                email = Guid.NewGuid().ToString(),
-                password = rand.Next(10000)               
+                email = Guid.NewGuid().ToString(),          //if empty use Null
+                password = rand.Next(10000)                 //if empty use 0
             };
 
             var mockMapper = new MapperConfiguration(cfg =>
@@ -216,8 +216,9 @@ namespace SchoolLogin.Tests
             //Assert
             var CreatedItem =(result.Result as CreatedAtActionResult).Value as SchoolLoginCreateDto;
             result.Should().BeEquivalentTo(CreatedItem, options => options.ComparingByMembers<SchoolLoginCreateDto>().ExcludingMissingMembers());
-            CreatedItem.StudentName.Should().NotBeEmpty();
-            CreatedItem.email.Should().NotBeEmpty();
+            // CreatedItem.StudentName.Should().NotBeEmpty();
+            CreatedItem.StudentName.Should().NotBe(null);
+            CreatedItem.email.Should().NotBe(null);
             CreatedItem.password.Should().NotBe(null);
         }
 

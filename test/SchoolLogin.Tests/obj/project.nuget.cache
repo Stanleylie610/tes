@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EO5PG4Szl2cbX1sPbeFLkAuuERPls6J0EJWRrvkWIWktX2VoVF4VuiCUK8VdmBVUaTf7xC37eciwMF1wndmLlA==",
+  "dgSpecHash": "w9/9GyoIRvt9P35F7SAZHEdtPcjtKNofU6VUP6NMzaYYQDsjwW480NQapXICBdmNB01wlUnAi47EHbK2aCFhPg==",
   "success": true,
-  "projectFilePath": "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\SchoolLogin.Tests.csproj",
+  "projectFilePath": "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\SchoolLogin.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stanley\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Stanley\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

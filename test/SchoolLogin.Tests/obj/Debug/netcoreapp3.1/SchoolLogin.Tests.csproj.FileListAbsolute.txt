@@ -92,12 +92,6 @@ D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\netco
 D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\netcoreapp3.1\SchoolLogin.Tests.csproj.CopyComplete
 D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\netcoreapp3.1\SchoolLogin.Tests.dll
 D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\netcoreapp3.1\SchoolLogin.Tests.pdb
-D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\netcoreapp3.1\SchoolLogin.Tests.csproj.AssemblyReference.cache
-D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\netcoreapp3.1\SchoolLogin.Tests.GeneratedMSBuildEditorConfig.editorconfig
-D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\netcoreapp3.1\SchoolLogin.Tests.csproj.CoreCompileInputs.cache
-D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\netcoreapp3.1\SchoolLogin.deps.json
-D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\netcoreapp3.1\SchoolLogin.runtimeconfig.json
-D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\netcoreapp3.1\SchoolLogin.runtimeconfig.dev.json
 D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\netcoreapp3.1\appsettings.json
 D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\netcoreapp3.1\global.json
@@ -180,5 +174,11 @@ D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\netco
 D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\netcoreapp3.1\SchoolLogin.dll
 D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\netcoreapp3.1\SchoolLogin.pdb
-D:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\netcoreapp3.1\SchoolLogin.Tests.genruntimeconfig.cache
 d:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+d:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\netcoreapp3.1\SchoolLogin.deps.json
+d:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\netcoreapp3.1\SchoolLogin.runtimeconfig.json
+d:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\bin\Debug\netcoreapp3.1\SchoolLogin.runtimeconfig.dev.json
+d:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\netcoreapp3.1\SchoolLogin.Tests.csproj.AssemblyReference.cache
+d:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\netcoreapp3.1\SchoolLogin.Tests.GeneratedMSBuildEditorConfig.editorconfig
+d:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\netcoreapp3.1\SchoolLogin.Tests.csproj.CoreCompileInputs.cache
+d:\WebAPI\webapi\SchoolLogin - SDK 3.1.12\test\SchoolLogin.Tests\obj\Debug\netcoreapp3.1\SchoolLogin.Tests.genruntimeconfig.cache
