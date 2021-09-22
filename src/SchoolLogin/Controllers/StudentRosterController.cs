@@ -17,7 +17,7 @@ namespace SchoolLogin.Controllers
     {
         private readonly ISchoolloginRepo _repository;
         private readonly IMapper _mapper;
-
+  
         public StudentRosterController(ISchoolloginRepo repository, IMapper mapper) //constructor for dependency to be injected
         {
             _repository = repository;       //injected

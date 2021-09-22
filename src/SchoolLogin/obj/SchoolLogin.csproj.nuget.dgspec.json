@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj": {}
+    "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj": {}
   },
   "projects": {
-    "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj": {
+    "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj",
+        "projectUniqueName": "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj",
         "projectName": "SchoolLogin",
-        "projectPath": "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj",
+        "projectPath": "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj",
         "packagesPath": "C:\\Users\\Stanley\\.nuget\\packages\\",
-        "outputPath": "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\obj\\",
+        "outputPath": "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stanley\\AppData\\Roaming\\NuGet\\NuGet.Config",

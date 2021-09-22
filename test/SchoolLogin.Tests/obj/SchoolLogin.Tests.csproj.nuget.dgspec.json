@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\SchoolLogin.Tests.csproj": {}
+    "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\SchoolLogin.Tests.csproj": {}
   },
   "projects": {
-    "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj": {
+    "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj",
+        "projectUniqueName": "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj",
         "projectName": "SchoolLogin",
-        "projectPath": "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj",
+        "projectPath": "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj",
         "packagesPath": "C:\\Users\\Stanley\\.nuget\\packages\\",
-        "outputPath": "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\obj\\",
+        "outputPath": "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stanley\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,32 +95,32 @@
         }
       }
     },
-    "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\SchoolLogin.Tests.csproj": {
+    "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\SchoolLogin.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\SchoolLogin.Tests.csproj",
+        "projectUniqueName": "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\SchoolLogin.Tests.csproj",
         "projectName": "SchoolLogin.Tests",
-        "projectPath": "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\SchoolLogin.Tests.csproj",
+        "projectPath": "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\SchoolLogin.Tests.csproj",
         "packagesPath": "C:\\Users\\Stanley\\.nuget\\packages\\",
-        "outputPath": "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\obj\\",
+        "outputPath": "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\test\\SchoolLogin.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stanley\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj": {
-                "projectPath": "d:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj"
+              "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj": {
+                "projectPath": "D:\\WebAPI\\webapi\\SchoolLogin - SDK 3.1.12\\src\\SchoolLogin\\SchoolLogin.csproj"
               }
             }
           }
@@ -132,18 +132,10 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "FluentAssertions": {
-              "target": "Package",
-              "version": "[*, )"
-            },
-            "Microsoft.EntityFrameworkCore.InMemory": {
-              "target": "Package",
-              "version": "[*, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[*, )"
             },
@@ -166,8 +158,10 @@
               "version": "[2.4.1, )"
             },
             "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[*, )"
+              "version": "[2.4.3, )"
             }
           },
           "imports": [
